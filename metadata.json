@@ -1,0 +1,6 @@
+{
+  "name": "Wayfinder Travel Dashboard",
+  "description": "Country and travel intelligence dashboard powered by a Node.js and Express API gateway integrating six REST services for country data, weather, local time, currency exchange, tourist photography, and travel news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
